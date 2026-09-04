@@ -113,8 +113,9 @@ If `books.json` is missing or empty, the program automatically creates a fresh, 
 
 ## 👤 Author
 
-**Satyam Tiwari**
-Computer Science Project — Library Management System
+**Satyam Tiwari**<br>
+Computer Science<br> 
+Project — Library Management System
 
 ---
 
