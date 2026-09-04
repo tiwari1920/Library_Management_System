@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Starting Out With Python",
+        "author": "Tony Gaddis",
+        "genre": "Academic/Education",
+        "total_copies": 100,
+        "available_copies": 100,
+        "issued_to": []
+    },
+    {
+        "id": 2,
+        "title": "The 48 Laws of Power",
+        "author": "Robert Greene",
+        "genre": "Personal Development",
+        "total_copies": 23,
+        "available_copies": 23,
+        "issued_to": []
+    },
+    {
+        "id": 3,
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "genre": "Philosophy",
+        "total_copies": 15,
+        "available_copies": 15,
+        "issued_to": []
+    },
+    {
+        "id": 4,
+        "title": "The Prince",
+        "author": "Niccolo Machiavelli",
+        "genre": "Strategy $ Philosophy",
+        "total_copies": 45,
+        "available_copies": 45,
+        "issued_to": []
+    },
+    {
+        "id": 5,
+        "title": "Letters to Milena",
+        "author": "Franz Kafka",
+        "genre": "Romance",
+        "total_copies": 12,
+        "available_copies": 11,
+        "issued_to": [
+            {
+                "borrower": "Prince Shukla",
+                "issue_date": "2026-09-04"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper lee",
+        "genre": "Fiction",
+        "total_copies": 34,
+        "available_copies": 34,
+        "issued_to": []
+    },
+    {
+        "id": 7,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Fiction",
+        "total_copies": 1,
+        "available_copies": 1,
+        "issued_to": []
+    },
+    {
+        "id": 8,
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Fiction",
+        "total_copies": 56,
+        "available_copies": 56,
+        "issued_to": []
+    },
+    {
+        "id": 9,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Non-Fiction",
+        "total_copies": 34,
+        "available_copies": 34,
+        "issued_to": []
+    },
+    {
+        "id": 10,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "Non-Fiction",
+        "total_copies": 100,
+        "available_copies": 99,
+        "issued_to": [
+            {
+                "borrower": "Satyam Tiwari",
+                "issue_date": "2026-09-04"
+            }
+        ]
+    }
+]
